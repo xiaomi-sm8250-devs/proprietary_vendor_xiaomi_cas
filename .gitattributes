@@ -1,0 +1,1 @@
+proprietary/vendor/lib64/camera/com.qti.tuned.cas_semco_ov48c_wide.bin filter=lfs diff=lfs merge=lfs -text
